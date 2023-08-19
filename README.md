@@ -9,4 +9,4 @@ The defining characteristic of diffusion models is that they model the data gene
 Herer is a basic implementation of these models.
 
 
-<img src="https://github.com/armanakbari/DuffusionModels/edit/main/download.png">
+<img src="https://github.com/armanakbari/DuffusionModels/blob/main/download.png">
